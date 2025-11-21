@@ -1,12 +1,12 @@
 # 💰 Gold Price Impact — LTV Analysis  
 ### Forecasting, Stress Testing & Risk Analytics Dashboard  
-### *(A Rupeek-style FinTech Data Analyst Project)*  
+### *(A Fintech's-style FinTech Data Analyst Project)*  
 
 ---
 
 ## 📌 **Overview**
 
-This project analyzes how **gold price movements impact the Loan-to-Value (LTV) ratio** for gold-backed loans — a core risk metric used by lenders like **Rupeek**, Muthoot, Manappuram, and banks operating under RBI's 75% LTV rule.
+This project analyzes how **gold price movements impact the Loan-to-Value (LTV) ratio** for gold-backed loans — a core risk metric used by lenders like **Fintech's**, Muthoot, Manappuram, and banks operating under RBI's 75% LTV rule.
 
 The project includes:
 
@@ -110,7 +110,7 @@ We began with **three datasets**:
 | Pros | Cons |
 |------|------|
 | Accurate INR/10g data used by Indian lenders | Only 10 years of history |
-| Matches Rupeek’s actual valuation model | Cannot model long-term seasonality |
+| Matches Fintech's’s actual valuation model | Cannot model long-term seasonality |
 | Clean, ready for LTV calculations | Not suitable alone for forecasting |
 
 ---
@@ -395,7 +395,7 @@ This project demonstrates end-to-end skills required for a FinTech Data Analyst 
 
 It aligns perfectly with companies like:    
 
-- Rupeek
+- Fintech's
 
 - Muthoot
 
