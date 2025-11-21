@@ -27,8 +27,8 @@ The project includes:
 ---
 
 # 🌐 Live Dashboard (Optional)  
-If deployed:  
-**https://your-streamlit-app-url**
+Live Preview:  
+**[Active Link](https://gold-price-impact-ltv-analysis.streamlit.app/)**
 
 ---
 
