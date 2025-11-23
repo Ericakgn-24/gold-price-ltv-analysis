@@ -1,7 +1,32 @@
-streamlit
-pandas
-numpy
-plotly
-prophet
-statsmodels
-openpyxl
+# Core data packages
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Streamlit app
+streamlit==1.35.0
+plotly==5.22.0
+
+# ML packages
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# XGBoost (latest stable, GPU optional)
+xgboost==3.0.2
+
+# SHAP (supports model-agnostic Explainer for XGBoost 3.x)
+shap==0.45.1
+
+# PyTorch (CPU version for deployment)
+torch==2.2.2
+torchaudio==2.2.2
+torchvision==0.17.2
+
+# For Jupyter / Notebook development
+ipykernel==6.29.4
+notebook==7.1.2
+
+# Utility
+python-dateutil==2.9.0.post0
+tqdm==4.66.2

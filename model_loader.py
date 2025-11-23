@@ -9,7 +9,7 @@ def load_rf():
 
 def load_xgb():
     booster = xgb.Booster()
-    booster.load_model("models/xgb_model.bst")
+    booster.load_model("models/xgb_model.json")
     return booster
 
 def load_lstm(input_dim):
